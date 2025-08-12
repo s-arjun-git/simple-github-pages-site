@@ -1,4 +1,4 @@
-# 🌐 My GitHub Pages Website
+# 🌐 Simple GitHub Pages Website
 
 A simple, modern static website hosted on **GitHub Pages**.
 
